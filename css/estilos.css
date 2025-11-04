@@ -121,7 +121,7 @@ header.scroll .menu-toggle span {
   position: relative;
   color: #fff;
   background: linear-gradient(120deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)),
-    url("/img/imagen1.webp")
+    url("../img/imagen1.webp")
     center/cover no-repeat;
   animation: bgMove 20s ease-in-out infinite alternate;
 }
@@ -725,3 +725,4 @@ header.scroll .menu-toggle span {
     margin: 5px 10px;
   }
 }
+
